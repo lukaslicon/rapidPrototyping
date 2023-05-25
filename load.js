@@ -13,6 +13,6 @@ class load extends Phaser.Scene {
     }
     create()
     {
-        this.scene.start('outro');
+        this.scene.start('intro');
     }
 }
